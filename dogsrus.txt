@@ -1,0 +1,25 @@
+DogsRUs
+20
+2
+01
+Rover
+dog
+2
+Chris Loftus
+1234
+Pete Hoskins
+2222
+2
+hobnobs
+true
+false
+02
+Dinky
+dog
+1
+James Bond
+007007
+1
+Gold fingers
+false
+true
